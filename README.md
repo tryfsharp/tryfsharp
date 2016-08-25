@@ -8,7 +8,7 @@ technical details of the prototype implementation.
 
   * You can [see a sample tutorial in the prototype
     live](http://tryfsharp-preview.azurewebsites.net/tutorial/getting-started/) 
-    (but it is a _prototype_ so things need some time to load and may not work at all)    
+    (it is a _prototype_ so things need time to load and may not work)    
   * All source code is available in [the Try F# 
     organization](https://github.com/tryfsharp/) (in multiple repositories 
     as discussed below)
